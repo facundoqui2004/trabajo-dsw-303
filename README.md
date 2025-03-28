@@ -11,3 +11,4 @@ git log --all --graph --pretty=format:'%C(bold yellow)%h%Creset %C(bold cyan)%d%
 
 git log --all --graph --pretty=format:'%C(bold yellow)%h%Creset %C(bold cyan)%d%Creset %C(auto)%s%Creset %C(bold green)("%ad")%Creset %C(bold blue)<%an>%Creset' --date=format:'%d/%m/%y' --stat
 
+git log --all --graph --pretty=format:'%C(bold yellow)%h%Creset %C(bold cyan)%d%Creset %C(auto)%s%Creset %C(bold green)("%ad")%Creset %C(bold blue)<%an>%Creset' --date=format:'%d/%m/%y' --stat
